@@ -2,6 +2,7 @@
  console.log (typeof name);
  name = 2 ;
  console.log(typeof name); //it changes to number
+ 
  let person ={
     firstName: 'zweni',
     lastName :'zwezwe',
@@ -9,3 +10,7 @@
 
 }
 console.log(typeof person)//displayed object
+ let isDenied= false;
+ console.log(typeof isDenied);
+ let Place;
+ console.log(typeof Place)
